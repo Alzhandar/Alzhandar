@@ -21,7 +21,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙ Tech Stack
 <div align="center" style="margin: 10px 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 LeetCode Progress
+##  LeetCode Progress
 Here’s a snapshot of my most recent LeetCode activity — I regularly solve algorithmic challenges to keep my skills sharp.
 
 <p align="center">
@@ -49,6 +49,5 @@ Here’s a snapshot of my most recent LeetCode activity — I regularly solve al
   <img src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap" alt="LeetCode Stats" width="400" />
 </p>
 
----
-topping by! Let's create something amazing together.</em>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alzhandar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
