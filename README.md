@@ -1,79 +1,54 @@
-<!-- Main container with improved font and layout -->
-<div style="
-  font-family: Poppins, 'Trebuchet MS', sans-serif;
-  color: #333;
-  line-height: 1.6;
-  margin: 0 auto;
-  max-width: 920px;
-  padding: 0 1em;
-  text-align: center;
-">
+<!-- Replace placeholder fields (YOUR_NAME, YOUR_LINKS, etc.) with your info -->
 
-  <!-- Page Title & Emoji -->
-  <h1 style="font-size: 2.5em; margin-top: 1em;">
-    Hey there, I'm <span style="color:#1E90FF;">Alzhandar</span> 🚀
-  </h1>
+<h1 align="center">Hey there, I'm <span style="color:#1E90FF">Alzhandar</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-  <!-- SVG Animated Text -->
-  <svg width="480" height="72" viewBox="0 0 480 72" xmlns="http://www.w3.org/2000/svg">
-    <path id="curvePath" d="M20,36 Q240,-10 460,36" fill="none" stroke="none" />
-    <text font-size="24" font-weight="bold" fill="#1E90FF">
-      <textPath href="#curvePath" startOffset="0">
-        Building Reliable, High-Performance Back Ends...
+<div align="center">
+  <!-- Minimal stylized SVG animation -->
+  <svg width="420" height="60" viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
+    <text fill="#1E90FF" font-size="24" font-weight="bold">
+      <textPath href="#path" startOffset="0">
+        Crafting Efficient Back-End Solutions...
       </textPath>
-      <animate 
-        attributeName="startOffset" 
-        from="0" 
-        to="240" 
-        dur="6s" 
-        repeatCount="indefinite" />
+      <animate attributeName="startOffset" from="0" to="200" dur="6s" repeatCount="indefinite" />
     </text>
+    <path id="path" d="M20,30 Q210,-10 400,30" fill="none" stroke="none" />
   </svg>
+</div>
 
-  <!-- Short Professional Summary -->
-  <p style="font-size: 1.1em;">
-    Senior Back-End Developer · Specializing in Python & Java · Expert in Django, FastAPI, Express.js, Next.js
-  </p>
+<p align="center">
+  <strong>Back-End Developer</strong> · <strong>Python &amp; Java</strong> · <strong>Django, FastAPI</strong> · <strong>Express.js, Next.js</strong>
+</p>
 
-  <hr style="border: 0; border-top: 1px solid #ccc; margin: 2em 0;" />
+---
 
-  <!-- Tech Stack -->
-  <h2 style="font-size: 1.6em;">Tech Stack 🛠️</h2>
+## ⚙️ Tech Stack
+<div align="center" style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
+</div>
 
-  <div style="margin: 15px 0;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <br/>
-    <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </div>
+- **Databases**: PostgreSQL, MySQL  
+- **Containers & Deployment**: Docker, Kubernetes  
+- **CI/CD**: GitHub Actions, GitLab CI  
+- **Patterns**: RESTful APIs, Microservices, Event-Driven Architecture  
 
-  <hr style="border: 0; border-top: 1px solid #ccc; margin: 2em 0;" />
+---
 
-  <!-- Stats Section -->
-  <h2 style="font-size: 1.6em;">Stats 📊</h2>
-    <div style="flex: 1; min-width: 300px; max-width: 400px;">
-      <img 
-        src="https://leetcard.jacoblin.cool/Alzhandar?theme=dark&ext=heatmap" 
-        alt="LeetCode Stats" 
-        style="width: 100%; border-radius: 8px;" 
-      />
-    </div>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <!-- GitHub Stats -->
-    <div style="flex: 1; min-width: 300px; max-width: 400px;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=Alzhandar&show_icons=true&theme=tokyonight" 
-        alt="GitHub Stats" 
-        style="width: 100%; border-radius: 8px;" 
-      />
-    </div>
+## 🚀 LeetCode Progress
+Here’s a snapshot of my most recent LeetCode activity — I regularly solve algorithmic challenges to keep my skills sharp.
 
-  
-  </div>
+<p align="center">
+  <!-- Dynamic LeetCode stats for user "alzhandar" -->
+  <img src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap" alt="LeetCode Stats" width="400" />
+</p>
 
+---
+topping by! Let's create something amazing together.</em>
 </div>
