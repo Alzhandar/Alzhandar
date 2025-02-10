@@ -58,6 +58,13 @@
   <h2 style="font-size: 1.6em;">Stats 📊</h2>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 320px; max-width: 45%;">
+      <img 
+        src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap" 
+        alt="LeetCode Stats" 
+        style="width: 100%; border-radius: 8px;" 
+      />
+    </div>
     <!-- GitHub Stats -->
     <div style="flex: 1; min-width: 320px; max-width: 45%;">
       <img 
@@ -68,13 +75,8 @@
     </div>
 
     <!-- LeetCode Progress -->
-    <div style="flex: 1; min-width: 320px; max-width: 45%;">
-      <img 
-        src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap" 
-        alt="LeetCode Stats" 
-        style="width: 100%; border-radius: 8px;" 
-      />
-    </div>
+    
+
   </div>
 
 </div>
