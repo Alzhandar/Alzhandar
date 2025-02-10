@@ -56,17 +56,16 @@
 
   <!-- Stats Section -->
   <h2 style="font-size: 1.6em;">Stats 📊</h2>
-
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <div style="flex: 1; min-width: 320px; max-width: 45%;">
+    <div style="flex: 1; min-width: 300px; max-width: 400px;">
       <img 
-        src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap" 
+        src="https://leetcard.jacoblin.cool/Alzhandar?theme=dark&ext=heatmap" 
         alt="LeetCode Stats" 
         style="width: 100%; border-radius: 8px;" 
       />
     </div>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <!-- GitHub Stats -->
-    <div style="flex: 1; min-width: 320px; max-width: 45%;">
+    <div style="flex: 1; min-width: 300px; max-width: 400px;">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=Alzhandar&show_icons=true&theme=tokyonight" 
         alt="GitHub Stats" 
@@ -74,9 +73,7 @@
       />
     </div>
 
-    <!-- LeetCode Progress -->
-    
-
+  
   </div>
 
 </div>
