@@ -83,7 +83,7 @@
   <!-- GitHub Stats -->
   <div style="flex: 1; min-width: 320px; max-width: 400px;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" 
+      src="https://github-readme-stats.vercel.app/api?username=Alzhandar&show_icons=true&theme=radical" 
       alt="GitHub Stats" 
       width="100%" 
       style="border-radius: 8px; margin-bottom: 10px;"
