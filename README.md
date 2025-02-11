@@ -33,7 +33,7 @@
 
 ---
 
-## ⚙ Tech Stack
+## https://cdn-icons-png.freepik.com/512/5744/5744337.png?ga=GA1.1.2032293651.1721938046 Tech Stack
 
 <div align="center" style="margin: 10px 0;">
   <!-- Language Badges -->
