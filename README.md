@@ -66,6 +66,13 @@
     width="400" 
   />
 </p>
+<!-- Анимированный футер -->
+<div style="margin-top: 50px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+</div>
+
 
 ---
 
