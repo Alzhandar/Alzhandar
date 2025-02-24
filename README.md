@@ -1,78 +1,90 @@
-<!-- Replace placeholder fields (YOUR_NAME, YOUR_LINKS, etc.) with your info -->
-<div align="center" style="font-family: 'Trebuchet MS', Arial, sans-serif; color: #333; margin: 0 auto;">
+<div align="center">
 
-<h1>
-  Hey there, I'm <span style="color:#1E90FF">Alzhandar</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h1>
+# ✨ Alzhandar
 
-<!-- Minimal stylized SVG animation -->
-<svg width="420" height="60" viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
-  <text fill="#1E90FF" font-size="24" font-weight="bold">
-    <textPath href="#path" startOffset="0">
-      Crafting Efficient Back-End Solutions...
-    </textPath>
-    <animate 
-      attributeName="startOffset" 
-      from="0" 
-      to="200" 
-      dur="6s" 
-      repeatCount="indefinite" 
-    />
-  </text>
-  <path id="path" d="M20,30 Q210,-10 400,30" fill="none" stroke="none" />
-</svg>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="50" height="50" />
 
-<p>
-  <strong>Back-End Developer</strong> ·
-  <strong>Python &amp; Java</strong> ·
-  <strong>Django, FastAPI</strong> ·
-  <strong>Express.js, Next.js</strong>
-</p>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Back-End+Developer;Python+%7C+Java+%7C+JavaScript;APIs+%26+Microservices;Always+Learning)](https://git.io/typing-svg)
 
----
+**Crafting Efficient Back-End Solutions**
 
-## Tech Stack
-
-<div align="center" style="margin: 10px 0;">
-  <!-- Language Badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
-  <!-- Framework Badges -->
-  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
-</div>
-
-- **Databases**: PostgreSQL, MySQL  
-- **Containers & Deployment**: Docker, Kubernetes  
-- **CI/CD**: GitHub Actions, GitLab CI  
-- **Patterns**: RESTful APIs, Microservices, Event-Driven Architecture  
-
----
-
-## 💡 LeetCode Progress
-
-<p align="center">
-  <!-- Dynamic LeetCode stats for user "alzhandar" -->
-  <img 
-    src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap" 
-    alt="Alzhandar's LeetCode Stats" 
-    width="400" 
-  />
-</p>
-<!-- Анимированный футер -->
-<div style="margin-top: 50px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com)
+[<img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>](https://portfolio.com)
 
 </div>
 
+<br>
 
----
+## 🚀 About Me
+
+> I'm a back-end developer passionate about building scalable, efficient systems that solve real-world problems.
+
+- 🔭 Currently working on **microservice architecture optimization**
+- 🌱 Learning **cloud-native development** and **distributed systems**
+- 👯 Looking to collaborate on **open-source back-end tools**
+- 💬 Ask me about **API design**, **database optimization**, or **system architecture**
+
+<br>
+
+## 🔧 Technologies & Tools
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alzhandar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzhandar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<br>
+
+## 🏆 LeetCode Progress
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap&theme=dark" alt="Alzhandar's LeetCode Stats" width="500" />
+</div>
+
+<br>
+
+
+## 💼 Architecture Experience
+
+- **RESTful APIs** - Design and implementation of robust API systems
+- **Microservices** - Building and orchestrating distributed applications
+- **Event-Driven Architecture** - Developing scalable asynchronous systems
+- **Database Optimization** - Performance tuning and query enhancement
+
+
+
+
 
