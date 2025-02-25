@@ -1,6 +1,5 @@
 <div align="center">
 
-# ✨ Alzhandar
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="50" height="50" />
 
