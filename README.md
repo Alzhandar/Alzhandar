@@ -9,18 +9,6 @@
 
 </div>
 
-<br>
-
-## 🚀 About Me
-
-> I'm a back-end developer passionate about building scalable, efficient systems that solve real-world problems.
-
-- 🔭 Currently working on **microservice architecture optimization**
-- 🌱 Learning **cloud-native development** and **distributed systems**
-- 👯 Looking to collaborate on **open-source back-end tools**
-- 💬 Ask me about **API design**, **database optimization**, or **system architecture**
-
-<br>
 
 ## 🔧 Technologies & Tools
 
@@ -71,13 +59,6 @@
 
 <br>
 
-
-## 💼 Architecture Experience
-
-- **RESTful APIs** - Design and implementation of robust API systems
-- **Microservices** - Building and orchestrating distributed applications
-- **Event-Driven Architecture** - Developing scalable asynchronous systems
-- **Database Optimization** - Performance tuning and query enhancement
 
 
 
