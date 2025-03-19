@@ -20,8 +20,9 @@
 ## LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/alzhandar?ext=heatmap&theme=dark" alt="Alzhandar's LeetCode Stats" width="500" />
+  <img src="https://leetcard.jacoblin.cool/alzhandar?theme=dark" alt="Alzhandar's LeetCode Stats" width="500" />
 </div>
+
 
 <br>
 
