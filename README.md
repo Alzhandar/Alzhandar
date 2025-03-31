@@ -9,7 +9,7 @@
 
 </div>
 
-## GitHub Stats
+## GitHub Stats <img src="./img/Fire.png" alt="Abacus" width="30" height="30" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alzhandar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
@@ -17,7 +17,7 @@
 
 <br>
 
-## LeetCode Progress
+## LeetCode Progress <img src="./img/Fire.png" alt="Abacus" width="30" height="30" />
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/alzhandar?theme=dark" alt="Alzhandar's LeetCode Stats" width="500" />
@@ -25,8 +25,6 @@
 
 
 <br>
-
-
 
 
 
