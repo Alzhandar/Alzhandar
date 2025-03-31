@@ -9,7 +9,7 @@
 
 </div>
 
-## GitHub Stats <img src="./img/Fire.png" alt="Abacus" width="30" height="30" />
+## GitHub Stats <img src="https://media-hosting.imagekit.io/3b414a17ce154bb2/Fire.png?Expires=1838019735&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XLfIq-eOBgMwCt6DqPEQmUef7~J0PZvWd1glU9X4VuWE-3GwK5i0b8M6Ig7Pj9rm-gkYRR3RUOtlT5~f03HrT96gUAAX7IXuAUUjmKV0uaCouMSA61vLGTyeLdUMfyX4BIlWp5Q7sqmeRrGV9Ac9DfIy0AxSYsSYFQgadfSFG-FsOfcvOV6SYyel-Hny-2YXp8Ut7yLS~GF6~orc05XPvfdSXXLvoy5Np5TlBIf9vWw7v4t6mPKHd3EvZo~gA1a5Vtn297uks3-YI9N2-Z7tYnlooB0u~x1r2oBvJWzdVB4tPDkDUA-X5IaiqLUVtEn~nHH8rxGciHTu7EP8~svdfQ__" alt="Abacus" width="30" height="30" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alzhandar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
@@ -17,7 +17,7 @@
 
 <br>
 
-## LeetCode Progress <img src="./img/Fire.png" alt="Abacus" width="30" height="30" />
+## LeetCode Progress <img src="https://media-hosting.imagekit.io/3b414a17ce154bb2/Fire.png?Expires=1838019735&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XLfIq-eOBgMwCt6DqPEQmUef7~J0PZvWd1glU9X4VuWE-3GwK5i0b8M6Ig7Pj9rm-gkYRR3RUOtlT5~f03HrT96gUAAX7IXuAUUjmKV0uaCouMSA61vLGTyeLdUMfyX4BIlWp5Q7sqmeRrGV9Ac9DfIy0AxSYsSYFQgadfSFG-FsOfcvOV6SYyel-Hny-2YXp8Ut7yLS~GF6~orc05XPvfdSXXLvoy5Np5TlBIf9vWw7v4t6mPKHd3EvZo~gA1a5Vtn297uks3-YI9N2-Z7tYnlooB0u~x1r2oBvJWzdVB4tPDkDUA-X5IaiqLUVtEn~nHH8rxGciHTu7EP8~svdfQ__" alt="Abacus" width="30" height="30" />
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/alzhandar?theme=dark" alt="Alzhandar's LeetCode Stats" width="500" />
