@@ -10,5 +10,5 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzhandar&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" height="200" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);" />
-  <img src="https://leetcard.jacoblin.cool/alzhandar?theme=dark&ext=heatmap" alt="LeetCode Stats" height="200" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);" />
+  <img src="https://leetcard.jacoblin.cool/alzhandar?theme=dark" alt="LeetCode Stats" height="200" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);" />
 </div>
