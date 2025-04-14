@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://media-hosting.imagekit.io/0d88ca1ac83c4d56/Beaming%20Face%20with%20Smiling%20Eyes.png?Expires=1838117757&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=rfXJz0Y8NZlRSQ~p2GR3gQU8m~cUjK7iloNPknsAdyLuy8wGMgbM8kFgjfrhE4xjHvv~-evdyKTjw-DLTCpeZCfgPwiyABYYzLvhadGH61UoVRXz8xHWnpH69sCXtyzQTigQEydgekw79daSDWAx9x4BLFG~xaDmpLNBTMitdtkdU0VO84q7L9RbpP0HWfLvuElSKWbaxvOVEdVLqz-lGPdieg0~DUGYB69bTDWl2uOv1E49O6e9XtRKaarkABq3AjucXhmFO3egx2DFd1pL~nXdktLR8gQig1iMbUmwqWB8WLjCt~Q6LS2DpYOcjxn8gfCZ6ILhrpGyA7LoQHgWqA__" alt="Wave" width="50" height="50" />
+  
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Back-End+Developer;Python+%7C+Java+%7C+JavaScript;APIs+%26+Microservices;Always+Learning)](https://git.io/typing-svg)
-  
-  <h3>Crafting Efficient Back-End Solutions</h3>
 </div>
 
 ## Tech Stack & LeetCode Stats  <img src="https://media-hosting.imagekit.io/3b414a17ce154bb2/Fire.png?Expires=1838019735&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XLfIq-eOBgMwCt6DqPEQmUef7~J0PZvWd1glU9X4VuWE-3GwK5i0b8M6Ig7Pj9rm-gkYRR3RUOtlT5~f03HrT96gUAAX7IXuAUUjmKV0uaCouMSA61vLGTyeLdUMfyX4BIlWp5Q7sqmeRrGV9Ac9DfIy0AxSYsSYFQgadfSFG-FsOfcvOV6SYyel-Hny-2YXp8Ut7yLS~GF6~orc05XPvfdSXXLvoy5Np5TlBIf9vWw7v4t6mPKHd3EvZo~gA1a5Vtn297uks3-YI9N2-Z7tYnlooB0u~x1r2oBvJWzdVB4tPDkDUA-X5IaiqLUVtEn~nHH8rxGciHTu7EP8~svdfQ__" alt="Fire" width="30" height="30" />
